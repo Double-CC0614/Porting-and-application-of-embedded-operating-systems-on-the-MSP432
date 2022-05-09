@@ -1,3 +1,3 @@
 # Porting-and-application-of-embedded-operating-systems-on-the-MSP432
 MSP432P401R,RT-Thread
-这是一个本科生的毕业设计，肯定有很多不太对的地方，希望有缘人自己要机灵一点，学会灵活变通使用。
+This is a graduation project for undergraduates, there must be a lot of things that are not quite right, I hope that people who have the luck to be a little smarter and learn to be flexible and flexible.
